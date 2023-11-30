@@ -1,6 +1,6 @@
 # YaJie
 <div align="center">
-<img src="https://github.com/xishuai416/YaJie/blob/main/yajielogo.png?raw=false" height="180"/>
+<img src="yajielogo.png" height="180"/>
     <p>
         <h1>YaJie</h1>
     </p>
